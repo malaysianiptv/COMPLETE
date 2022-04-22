@@ -2539,266 +2539,130 @@ http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&extension=ts&stream=14128
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&extension=ts&stream=14107
 
 
---------------------- Asia Xtra -----------------------
+---------------------TAMIL------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV2 HD - Vie Channel
-https://livecdn.fptplay.net/hda/htv2hd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV Key
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV7 HD
-https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV9 HD
-https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV Co.op
-https://livecdn.fptplay.net/sda/htvcoop_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTV Thể Thao
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Du Lịch
-https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Gia Đình HD
-https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Phim HD
-https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Phụ Nữ
-https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Thuần Việt
-https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",HTVC Thuần Việt HD
-https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ADHTIYA TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2743
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ANGEL TV HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2742
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ATHAVAN TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2707
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| CAPTAIN NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2741
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| CAPTAIN TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2674
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| CHUTTI TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| COLORS TAMIL HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| DD PODHIGAI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2739
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| DD SAPTAGIRI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| DISCOVERY KIDS TAMIL
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| DISCOVERY WORLD HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2738
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| FLOWERS TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2706
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| FOX LIFE HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2737
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| HISTORY TV18 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2736
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| IBC BAKTHI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2711
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| IBC COMEDY
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2709
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| IBC TAMIL
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2710
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| IMAYAM TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2677
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| J MOVIES
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2673
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| JAYA MAX
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| JAYA PLUS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| JAYA TV HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2735
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| KTV HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2734
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| LOTUS NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| MADHA TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| MAKKAL TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2691
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| MK TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| MOON TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2680
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| NAT GEO WILD HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2732
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| NATIONAL GEOGRAPHIC HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2731
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| NEWS 18 TAMIL NADU
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2730
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| POLIMER NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2696
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| POLIMER TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| PUTHIYA THALIMURAI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2672
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| PUTHUYUGAM
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| RAGAM TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| RAJ DIGITAL PLUS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2690
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| RAJ MUSIX
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2729
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| RAJ NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| RAJ TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2728
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SAHANA TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SALVATION TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SATHIYAM TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2692
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SONY BBC EARTH HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2727
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SONY YAY
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2698
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| STAR VIJAY HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2726
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SUN LIFE
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SUN MUSIC HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2724
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SUN NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2723
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| SUN TV HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2722
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| TAMILAN TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| TATA SKY TAMIL CINEMA
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2721
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| THANTHI TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2699
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| TUNE 6
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2679
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| TVI HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2708
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| VALICHAM PLUS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| VASANTH TV
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| VIJAY SUPER HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2719
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| WIN NEWS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2675
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ZEE TAMIL HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2718
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ZEE TAMIL SD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2697
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="India",|TAMIL| ZEE THIRAI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2688
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",An Giang - ATV
-https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bà Rịa Vũng Tàu - BRT
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 1 - BTV1
-https://livecdn.fptplay.net/hda/btv1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 2 - BTV2
-https://livecdn.fptplay.net/hda/btv2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 4 - BTV4
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 6 - BTV6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 10 - BTV10
-https://livecdn.fptplay.net/sda/ncm_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Dương 11 - BTV11
-https://livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Phước 1 - BPTV1
-https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Phước 2 - BPTV2
-https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Thuận - BTV
-https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bình Định - BTV
-https://livecdn.fptplay.net/sda/binhdinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bạc Liêu - BLTV
-https://livecdn.fptplay.net/sdc/baclieu_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bắc Giang - BGTV
-https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bắc Ninh - BTV
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Bến Tre - THBT
-https://livecdn.fptplay.net/sdc/bentre_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Cần Thơ - THTPCT
-https://livecdn.fptplay.net/sda/cantho_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Cao Bằng - CRTV
-https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Cà Mau - CTV
-https://livecdn.fptplay.net/sdc/camau_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Gia Lai - THGL
-https://livecdn.fptplay.net/sda/gialai_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hà Nội 1 - HaNoiTV1
-https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hà Nội 2 - HaNoiTV2
-https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Thừa Thiên Huế - TRT
-https://livecdn.fptplay.net/sdc/hue_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hà Giang - HGTV
-https://livecdn.fptplay.net/sda/hagiang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hà Nam - THHN
-https://livecdn.fptplay.net/sda/hanam_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hà Tĩnh - HTTV
-https://livecdn.fptplay.net/sdc/hatinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hòa Bình - HBTV
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hưng Yên - HYTV
-https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hải Dương - HDTV
-https://livecdn.fptplay.net/sdc/haiduong_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hải Phòng - THP
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hậu Giang - HGTV
-https://livecdn.fptplay.net/sda/haugiang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Hòa Bình - HBTV
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Kiên Giang - KG
-https://livecdn.fptplay.net/sda/kiengiang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Kon Tum - KRT
-https://livecdn.fptplay.net/sdc/kontum_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Long An - LA34
-https://livecdn.fptplay.net/sdc/longan_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Lào Cai - THLC
-https://livecdn.fptplay.net/sdc/laocai_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Lâm Đồng - LTV
-https://livecdn.fptplay.net/sdc/lamdong_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Lạng Sơn - LSTV
-https://livecdn.fptplay.net/sdc/langson_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Nam Định - NTV
-https://livecdn.fptplay.net/sdc/namdinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Nghệ An - NTV
-https://livecdn.fptplay.net/sda/nghean_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Ninh Bình - NBTV
-https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Ninh Thuận - NTV
-https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Phú Thọ - PTV
-https://livecdn.fptplay.net/sda/phutho_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Phú Yên - PTP
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Bình - QBTV
-https://livecdn.fptplay.net/sda/quangbinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Nam - QRT
-https://livecdn.fptplay.net/sdc/quangnam_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Ngãi - PTQ
-https://livecdn.fptplay.net/sda/quangngai_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Ninh 1 - QTV1
-https://livecdn.fptplay.net/sda/quangninh1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Ninh 3 - QTV3
-https://livecdn.fptplay.net/sda/quangninh3_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quảng Trị - QRTV
-https://livecdn.fptplay.net/sdc/quangtri_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Sơn La - STV
-https://livecdn.fptplay.net/sdc/sonla_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Sóc Trăng - STV
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Thanh Hóa - TTV
-https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Thái Bình - TBTV
-https://livecdn.fptplay.net/sda/thaibinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Thái Nguyên - TN
-https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Tiền Giang - THTG
-https://livecdn.fptplay.net/sda/tiengiang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Trà Vinh - THTV
-https://livecdn.fptplay.net/sdc/travinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Tuyên Quang - TTV
-https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Tây Ninh - TTV11
-https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Vĩnh Long 1 - THVL1
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Vĩnh Long 2 - THVL2
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Vĩnh Long 3 - THVL3
-https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Vĩnh Long 4 - THVL4
-https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Vĩnh Phúc - VP
-https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Yên Bái - YTV
-https://livecdn.fptplay.net/sdc/yenbai_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Điện Biên - ĐTV
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đà Nẵng 1 - DaNangTV1
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đà Nẵng 2 - DaNangTV2
-https://livecdn.fptplay.net/sdc/danang2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đắk Lắk - DRT
-https://livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đồng Nai 1 - ĐNR1
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đồng Nai 2 - ĐNR2
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Đồng Tháp 1 - THĐT1
-https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Arirang
-https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Channel Newsasia HD
-https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Channel V HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Davinci HD
-https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",DW HD
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",National Geographic Chanel - NGC HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",NHK World Japan HD
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Outdoor Channel HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",TV5 Monde
-https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",An Ninh HD
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Quốc Phòng VN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",Nhân Dân
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Asia Xtra",VOV TV
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-
-
---------------------- RADIO -----------------------
-
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png" tvg-logo="https://i.imgur.com/0o8Md8I.png", Hitz FM
-http://astro1.rastream.com/hitz?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", ERA FM
-http://astro2.rastream.com/era
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Loker Musik Indonesia
-http://live.lokermusik.com:8142/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Ceria FM
-http://172.83.43.162:8080/stream/;
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", NAGASWARA FM RADIOTEMEN
-http://bogor.nagaswarafm.com:8088/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Kool FM
-http://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Lite FM
-http://astro1.rastream.com/lite?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", NAGASWARA POP
-http://jakarta.nagaswarafm.com:8100/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", NAGASWARA DANCEDHUT
-http://jakarta.nagaswarafm.com:8200/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Sinar FM
-http://astro2.rastream.com/sinar?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Mix FM
-http://astro2.rastream.com/mix?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Fly FM
-http://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", CMN Radio
-http://streaming.coolkas.com:8024/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Best FM
-http://s8.voscast.com:8686/;stream1524468271750/1
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", My FM
-http://astro1.rastream.com//myfm?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Melody FM
-http://astro3.rastream.com/melody?type=mp3
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Cats FM
-http://catsfm64.cspixel.com:7111/stream/;
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Siaraya FM
-http://starrfm.rastream.com/starrfm-suria
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", RMK Radio
-http://rmk.baitussubhan.com:8066/stream
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Warna FM
-https://19043.live.streamtheworld.com/WARNA942FMAAC.aac?dist=onlineradiobox
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Ria FM
-https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
-#EXTINF: -1 group-title="Radio" tvg-logo="https://i.imgur.com/0o8Md8I.png", Kristal FM
-http://202.152.73.2:801/kfm
