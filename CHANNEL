@@ -1296,587 +1296,587 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 
---------------------- Malaysia VIP -----------------------
+--------------------- Malaysia VVIP -----------------------
 
-#EXTINF:-1 tvg-ID="101" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia: VIP",TV1
+#EXTINF:-1 tvg-ID="101" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia: VVIP",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-ID="102" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia: VIP",TV2
+#EXTINF:-1 tvg-ID="102" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia: VVIP",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: VIP",TV3
+#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: VVIP",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="Malaysia: VIP",AWESOME TV
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="Malaysia: VVIP",AWESOME TV
 http://iptv12k.com:35461/80201033004/324542/743
 
-#EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: VIP",TV6
+#EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: VVIP",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-ID="147" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="Malaysia: VIP",DIDIK TV KPM
+#EXTINF:-1 tvg-ID="147" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="Malaysia: VVIP",DIDIK TV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-ID="148" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia: VIP",8TV
+#EXTINF:-1 tvg-ID="148" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia: VVIP",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-ID="149" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia: VIP",TV9
+#EXTINF:-1 tvg-ID="149" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia: VVIP",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia: VIP",DRAMA SANGAT
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia: VVIP",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-ID="114" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Malaysia: VIP",ALHIJRAH
+#EXTINF:-1 tvg-ID="114" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Malaysia: VVIP",ALHIJRAH
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd
 http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m02000000000014615787&ct=17958&tsum=b0ead2bd3d2c7065c9b17e7623eb1330
 
-#EXTINF:-1 tvg-ID="146" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia: VIP",OKEY
+#EXTINF:-1 tvg-ID="146" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia: VVIP",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="306" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia: VIP",AEC
+#EXTINF:-1 tvg-id="306" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia: VVIP",AEC
 http://iptv12k.com:35461/80201033004/324542/709
 
-#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia: VIP",CERIA
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia: VVIP",CERIA
 http://iptv12k.com:35461/80201033004/324542/730
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia: VIP",PRIMA
+#EXTINF:-1 tvg-id="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia: VVIP",PRIMA
 http://iptv12k.com:35461/80201033004/324542/734
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia: VIP",RIA
+#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia: VVIP",RIA
 http://iptv12k.com:35461/80201033004/324542/735
 
-#EXTINF:-1 tvg-id="106" group-title="Malaysia: VIP" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png",OASIS
+#EXTINF:-1 tvg-id="106" group-title="Malaysia: VVIP" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png",OASIS
 http://iptv12k.com:35461/80201033004/324542/732
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m02000000000015727258&ct=17958&tsum=4732d0f3fc562e865e5ef831c0797a25
 
-#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="Malaysia: VIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",CITRA
+#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="Malaysia: VVIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",CITRA
 http://iptv12k.com:35461/80201033004/324542/721
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
 
-#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia: VIP",WARNA
+#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia: VVIP",WARNA
 http://iptv12k.com:35461/80201033004/324542/733
 
-#EXTINF:-1 xmltv-id="201" tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="8" channel-id="8" group-title="Malaysia: VIP",VAANAVIL
+#EXTINF:-1 xmltv-id="201" tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="8" channel-id="8" group-title="Malaysia: VVIP",VAANAVIL
 http://iptv12k.com:35461/80201033004/324542/676
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 tvg-ID="308" group-title="Malaysia: VIP" tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png",QUAN JIA HD
+#EXTINF:-1 tvg-ID="308" group-title="Malaysia: VVIP" tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png",QUAN JIA HD
 http://iptv12k.com:35461/80201033004/324542/710
 http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
 
-#EXTINF:-1 tvg-ID="307" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
+#EXTINF:-1 tvg-ID="307" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
 http://iptv12k.com:35461/80201033004/324542/706
 http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
 
-#EXTINF:-1 tvg-ID="304" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/LTsKped.png",XIAO TAI YANG
+#EXTINF:-1 tvg-ID="304" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/LTsKped.png",XIAO TAI YANG
 http://iptv12k.com:35461/80201033004/324542/700
 http://185.180.221.194:8278/3c83e3e991/playlist.m3u8?tid=MBBB6932799069327990&ct=18393&tsum=7879ab5e19dae1fa346615d553b22e00
 
-#EXTINF:-1 tvg-ID="311" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/aw4yTIL.png",AOD
+#EXTINF:-1 tvg-ID="311" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/aw4yTIL.png",AOD
 http://iptv12k.com:35461/80201033004/324542/705
 
-#EXTINF:-1 tvg-ID="310" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/aPpmN9s.png",TVB JADE
+#EXTINF:-1 tvg-ID="310" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/aPpmN9s.png",TVB JADE
 http://iptv12k.com:35461/80201033004/324542/698
 
-#EXTINF:-1 tvg-ID="333" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/y6p2lm0.png",HUA HEE DAI
+#EXTINF:-1 tvg-ID="333" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/y6p2lm0.png",HUA HEE DAI
 http://iptv12k.com:35461/80201033004/324542/707
 http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
 
-#EXTINF:-1 tvg-ID="300" group-title="Malaysia: VIP" tvg-logo="https://www.digitaltvnews.net/wp-content/uploads/logos/iqiyicom.png",iQIYI
+#EXTINF:-1 tvg-ID="300" group-title="Malaysia: VVIP" tvg-logo="https://www.digitaltvnews.net/wp-content/uploads/logos/iqiyicom.png",iQIYI
 http://iptv12k.com:35461/80201033004/324542/708
 
-#EXTINF:-1 tvg-ID="319" group-title="Malaysia: VIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/xinghe.png",TVB XING HE
+#EXTINF:-1 tvg-ID="319" group-title="Malaysia: VVIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/xinghe.png",TVB XING HE
 http://iptv12k.com:35461/80201033004/324542/696
 http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=md0765809c3841056727&ct=18961&tsum=37e949e2ece3a0ddbdafb59b6b3b66d7
 
-#EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="Malaysia: VIP",AURA
+#EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="Malaysia: VVIP",AURA
 http://iptv12k.com:35461/80201033004/324542/729
 
-#EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="Malaysia: VIP",RANIA
+#EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="Malaysia: VVIP",RANIA
 http://iptv12k.com:35461/80201033004/324542/728
 
-#EXTINF:-1 tvg-id="122" group-title="Malaysia: VIP" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+#EXTINF:-1 tvg-id="122" group-title="Malaysia: VVIP" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 tvg-id="111" group-title="Malaysia: VIP" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",GO SHOP
+#EXTINF:-1 tvg-id="111" group-title="Malaysia: VVIP" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",GO SHOP
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
-#EXTINF:-1 tvg-ID=Suria tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="Malaysia: VIP",SURIA
+#EXTINF:-1 tvg-ID=Suria tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="Malaysia: VVIP",SURIA
 http://iptv12k.com:35461/80201033004/324542/331
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-#EXTINF:-1 tvg-ID="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Malaysia: VIP",CHANNEL 5
+#EXTINF:-1 tvg-ID="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Malaysia: VVIP",CHANNEL 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="Malaysia: VIP" tvg-id="Vasantham" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+#EXTINF:-1 group-title="Malaysia: VVIP" tvg-id="Vasantham" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-ID="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Malaysia: VIP",CHANNEL 8
+#EXTINF:-1 tvg-ID="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Malaysia: VVIP",CHANNEL 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-ID="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Malaysia: VIP",CHANNEL U
+#EXTINF:-1 tvg-ID="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Malaysia: VVIP",CHANNEL U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="Malaysia: VIP",COLORS
+#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="Malaysia: VVIP",COLORS
 http://iptv12k.com:35461/80201033004/324542/2292
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png" group-title="Malaysia: VIP",BOLLYONE HD
+#EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png" group-title="Malaysia: VVIP",BOLLYONE HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="Malaysia: VIP",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="Malaysia: VVIP",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="Malaysia: VIP",RTV
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="Malaysia: VVIP",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Malaysia: VIP",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Malaysia: VVIP",SCTV
 http://51.79.251.57:2082/streaming/clients_live.php?extension=rtmp&username=malik&password=malik&stream=1804
 http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Malaysia: VIP",TRANS
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Malaysia: VVIP",TRANS
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Malaysia: VIP",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Malaysia: VVIP",TRANS 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-ID="RTMK07" tvg-logo="https://i.imgur.com/i7Z8C1s.png" group-title="Malaysia: VIP",RTM PARLIMEN
+#EXTINF:-1 tvg-ID="RTMK07" tvg-logo="https://i.imgur.com/i7Z8C1s.png" group-title="Malaysia: VVIP",RTM PARLIMEN
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 
-#EXTINF:-1 tvg-ID="RTMK04" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia: VIP",BERITA RTM
+#EXTINF:-1 tvg-ID="RTMK04" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia: VVIP",BERITA RTM
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-ID="501" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia: VIP",AWANI
+#EXTINF:-1 tvg-ID="501" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia: VVIP",AWANI
 http://iptv12k.com:35461/80201033004/324542/724
 http://50.7.161.82:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="502" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="Malaysia: VIP",BERNAMA
+#EXTINF:-1 tvg-id="502" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="Malaysia: VVIP",BERNAMA
 http://iptv12k.com:35461/80201033004/324542/723
 http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
 
-#EXTINF:-1 tvg-id="513" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png" group-title="Malaysia: VIP",AL JAZEERA
+#EXTINF:-1 tvg-id="513" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png" group-title="Malaysia: VVIP",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="719" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="Malaysia: VIP",ANIMAX
+#EXTINF:-1 tvg-id="719" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="Malaysia: VVIP",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Malaysia: VIP",CARTOON NETWORK
+#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Malaysia: VVIP",CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="Malaysia: VIP",NICK JR
+#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="Malaysia: VVIP",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="616" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="Malaysia: VIP",NICKELODEON
+#EXTINF:-1 tvg-id="616" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="Malaysia: VVIP",NICKELODEON
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cbeebies.png" group-title="Malaysia: VIP",CBEEBIES
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cbeebies.png" group-title="Malaysia: VVIP",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="619" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png" group-title="Malaysia: VIP",BOOMERANG
+#EXTINF:-1 tvg-id="619" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png" group-title="Malaysia: VVIP",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="618" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png" group-title="Malaysia: VIP",BABY TV
+#EXTINF:-1 tvg-id="618" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png" group-title="Malaysia: VVIP",BABY TV
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="556" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="Malaysia: VIP",ANIMAL PLANET
+#EXTINF:-1 tvg-ID="556" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="Malaysia: VVIP",ANIMAL PLANET
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="552" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Malaysia: VIP",DISCOVERY
+#EXTINF:-1 tvg-ID="552" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Malaysia: VVIP",DISCOVERY
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="555" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="Malaysia: VIP",HISTORY
+#EXTINF:-1 tvg-id="555" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="Malaysia: VVIP",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="551" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia: VIP",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="551" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia: VVIP",NATIONAL GEOGRAPHIC
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="550" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="Malaysia: VIP",NAT GEOWILD
+#EXTINF:-1 tvg-id="550" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="Malaysia: VVIP",NAT GEOWILD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="Malaysia: VIP" tvg-id="CHN" tvg-name="502", Love Nature HD
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="Malaysia: VVIP" tvg-id="CHN" tvg-name="502", Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="715" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428164_ico.png" group-title="Malaysia: VIP",HGTV
+#EXTINF:-1 tvg-id="715" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428164_ico.png" group-title="Malaysia: VVIP",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="714" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="Malaysia: VIP",CRIME+INVESTIGATION
+#EXTINF:-1 tvg-id="714" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="Malaysia: VVIP",CRIME+INVESTIGATION
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="712" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="Malaysia: VIP",WARNER TV
+#EXTINF:-1 tvg-id="712" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="Malaysia: VVIP",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="FMN.id" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="Malaysia: VIP",FMN
+#EXTINF:-1 tvg-ID="FMN.id" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="Malaysia: VVIP",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="706" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="Malaysia: VIP",HITS
+#EXTINF:-1 tvg-ID="706" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="Malaysia: VVIP",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="705" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Malaysia: VIP",KIX
+#EXTINF:-1 tvg-ID="705" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Malaysia: VVIP",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 tvg-id="704" tvg-logo="https://i.imgur.com/6G2TXMV.png" group-title="Malaysia: VIP",PRIMETIME
+#EXTINF:-1 tvg-id="704" tvg-logo="https://i.imgur.com/6G2TXMV.png" group-title="Malaysia: VVIP",PRIMETIME
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Malaysia: VIP",AXN
+#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Malaysia: VVIP",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="709" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Malaysia: VIP",AFN
+#EXTINF:-1 tvg-id="709" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Malaysia: VVIP",AFN
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-#EXTINF:-1 tvg-id="708" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foodnetwork.png" group-title="Malaysia: VIP",FOOD NETWORK
+#EXTINF:-1 tvg-id="708" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foodnetwork.png" group-title="Malaysia: VVIP",FOOD NETWORK
 http://iptv12k.com:35461/80201033004/324542/285
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="703" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="Malaysia: VIP",LIFETIME
+#EXTINF:-1 tvg-id="703" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="Malaysia: VVIP",LIFETIME
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="707" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia: VIP",TLC
+#EXTINF:-1 tvg-ID="707" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia: VVIP",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="BBCEarthAsia.uk tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png" group-title="Malaysia: VIP",BBC EARTH
+#EXTINF:-1 tvg-ID="BBCEarthAsia.uk tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png" group-title="Malaysia: VVIP",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
-#EXTINF:-1 tvg-ID="717" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20lifestyle.png" group-title="Malaysia: VIP",BBC LIFESTYLE
+#EXTINF:-1 tvg-ID="717" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20lifestyle.png" group-title="Malaysia: VVIP",BBC LIFESTYLE
 https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Malaysia: VIP",ONE TV
+#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Malaysia: VVIP",ONE TV
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-ID="394" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="Malaysia: VIP",OH!K
+#EXTINF:-1 tvg-ID="394" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="Malaysia: VVIP",OH!K
 http://iptv12k.com:35461/80201033004/324542/712
 
-#EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Malaysia: VIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
+#EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Malaysia: VVIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
 http://iptv12k.com:35461/80201033004/324542/713
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="Malaysia: VIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/hunan.png",HUNAN TV HD
+#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="Malaysia: VVIP" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/hunan.png",HUNAN TV HD
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Malaysia: VIP",TVN
+#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Malaysia: VVIP",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Malaysia: VIP",TVN MOVIES
+#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Malaysia: VVIP",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="396" tvg-name="MY: K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="Malaysia: VIP",K+
+#EXTINF:-1 tvg-id="396" tvg-name="MY: K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="Malaysia: VVIP",K+
 https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Sony GEM FHD" tvg-logo="https://i.postimg.cc/1587VCYT/sge2.png" group-title="Malaysia: VIP",Sony GEM
+#EXTINF:-1 tvg-id="CHN" tvg-name="Sony GEM FHD" tvg-logo="https://i.postimg.cc/1587VCYT/sge2.png" group-title="Malaysia: VVIP",Sony GEM
 https://group1-swiftservehd-1.dens.tv/h/h19/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428257_ico.png" group-title="Malaysia: VIP",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428257_ico.png" group-title="Malaysia: VVIP",ROCK ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="Malaysia: VIP",ROCK EXTREME
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="Malaysia: VVIP",ROCK EXTREME
 https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema HD" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Malaysia: VIP",MyCinema HD
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema HD" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Malaysia: VVIP",MyCinema HD
 https://group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 https://group1-swiftservehd-1.dens.tv/h/h90/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema Asia HD" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Malaysia: VIP",MyCinema Asia HD
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema Asia HD" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Malaysia: VVIP",MyCinema Asia HD
 https://group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Malaysia: VIP",MyFamily Channel HD
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Malaysia: VVIP",MyFamily Channel HD
 https://group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="Malaysia: VIP",MyCinema Europe
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="Malaysia: VVIP",MyCinema Europe
 https://group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Malaysia: VIP",HBO
+#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Malaysia: VVIP",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOHitsHD" tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Malaysia: VIP",HBO HITS
+#EXTINF:-1 tvg-name="HBOHitsHD" tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Malaysia: VVIP",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOFamilyHD" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Malaysia: VIP",HBO FAMILY
+#EXTINF:-1 tvg-name="HBOFamilyHD" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Malaysia: VVIP",HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOSignatureHD" tvg-id="HBOSignatureAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Malaysia: VIP",HBO SIGNATURE
+#EXTINF:-1 tvg-name="HBOSignatureHD" tvg-id="HBOSignatureAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Malaysia: VVIP",HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="Cinemax" tvg-id="412" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Malaysia: VIP",CINEMAX
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="412" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Malaysia: VVIP",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 tvg-name="HBOSignatureHD" tvg-id="413" tvg-logo="https://images.mypad4k.com/3uSRVq3bCDULQmdCc3PFMg.jpg" group-title="Malaysia: VIP",SHOWCASE MOVIES
+#EXTINF:-1 tvg-name="HBOSignatureHD" tvg-id="413" tvg-logo="https://images.mypad4k.com/3uSRVq3bCDULQmdCc3PFMg.jpg" group-title="Malaysia: VVIP",SHOWCASE MOVIES
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 http://iptv12k.com:35461/80201033004/324542/1826
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="Malaysia: VIP",CINEMA WORLD
+#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="Malaysia: VVIP",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="304" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Malaysia: VIP",THRILL
+#EXTINF:-1 tvg-name="304" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Malaysia: VVIP",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="404" tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png" group-title="Malaysia: VIP",BOO
+#EXTINF:-1 tvg-id="404" tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png" group-title="Malaysia: VVIP",BOO
 http://iptv12k.com:35461/80201033004/324542/722
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Malaysia: VIP",HITS MOVIE
+#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Malaysia: VVIP",HITS MOVIE
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="Malaysia: VIP",GALAXY
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="Malaysia: VVIP",GALAXY
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="Malaysia: VIP",GALAXY PREMIUM
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="Malaysia: VVIP",GALAXY PREMIUM
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Malaysia: VIP",IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Malaysia: VVIP",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Malaysia: VIP",&FLIX HD
+#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Malaysia: VVIP",&FLIX HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161824&extension=ts
 
-#EXTINF:-1 tvg-name="305" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Malaysia: VIP",&PRIVE HD
+#EXTINF:-1 tvg-name="305" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Malaysia: VVIP",&PRIVE HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161829&extension=ts
 
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/hesmake.png" group-title="Malaysia: VIP",ZEE CAFE HD
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/hesmake.png" group-title="Malaysia: VVIP",ZEE CAFE HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161950&extension=ts
 
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/Q0AKrWs.png" group-title="Malaysia: VIP",&PICTURES HD
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/Q0AKrWs.png" group-title="Malaysia: VVIP",&PICTURES HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=14523&extension=ts
 
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sonypix.png" group-title="Malaysia: VIP",SONY PIX HD
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sonypix.png" group-title="Malaysia: VVIP",SONY PIX HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161919&extension=ts
 http://iptv12k.com:35461/80201033004/324542/2198
 http://103.161.2.142/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movies (FHD)" tvg-logo="https://images.mypad4k.com/starmovies.jpg" group-title="Malaysia: VIP",Star Movies HD
+#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movies (FHD)" tvg-logo="https://images.mypad4k.com/starmovies.jpg" group-title="Malaysia: VVIP",Star Movies HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161932&extension=ts
 http://iptv12k.com:35461/80201033004/324542/2289
 http://103.161.2.142/hls/starmovies.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.imgur.com/9uKWrgC.png" group-title="Malaysia: VIP",STAR WORLD HD
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.imgur.com/9uKWrgC.png" group-title="Malaysia: VVIP",STAR WORLD HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=161941&extension=ts
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MNX HD (FHD)" tvg-logo="https://i.imgur.com/5R3XYMO.jpg" group-title="Malaysia: VIP",MN+ HD
+#EXTINF:-1 tvg-id="CHN" tvg-name="MNX HD (FHD)" tvg-logo="https://i.imgur.com/5R3XYMO.jpg" group-title="Malaysia: VVIP",MN+ HD
 http://webo.asia/play/live.php?mac=00:1a:79:43:ba:5e&stream=11834&extension=ts
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="305" tvg-id="309" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="Malaysia: VIP",CELESTIAL MOVIES
+#EXTINF:-1 tvg-name="305" tvg-id="309" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="Malaysia: VVIP",CELESTIAL MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="305" tvg-id="321" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="Malaysia: VIP",CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-name="305" tvg-id="321" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="Malaysia: VVIP",CELESTIAL CLASSIC MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="Malaysia: VIP",ZEE BIOSKOP
+#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="Malaysia: VVIP",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="Malaysia: VIP",ZEE CINEMA
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="Malaysia: VVIP",ZEE CINEMA
 http://iptv12k.com:35461/80201033004/324542/668
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="Malaysia: VIP",ZEE TV
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="Malaysia: VVIP",ZEE TV
 http://iptv12k.com:35461/80201033004/324542/667
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zing.png" group-title="Malaysia: VIP",ZING
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zing.png" group-title="Malaysia: VVIP",ZING
 http://iptv12k.com:35461/80201033004/324542/2295
 
-#EXTINF:-1 tvg-name="305" tvg-id="718" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/mtv.png" group-title="Malaysia: VIP",MTV
+#EXTINF:-1 tvg-name="305" tvg-id="718" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/mtv.png" group-title="Malaysia: VVIP",MTV
 http://iptv12k.com:35461/80201033004/324542/586
 
-#EXTINF:-1 tvg-id="515" group-title="Malaysia: VIP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+#EXTINF:-1 tvg-id="515" group-title="Malaysia: VVIP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="517" group-title="Malaysia: VIP"tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",BLOOMBERG
+#EXTINF:-1 tvg-id="517" group-title="Malaysia: VVIP"tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",BLOOMBERG
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-id="503" group-title="Malaysia: VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
+#EXTINF:-1 tvg-id="503" group-title="Malaysia: VVIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="514" group-title="Malaysia: VIP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",SKY NEWS
+#EXTINF:-1 tvg-id="514" group-title="Malaysia: VVIP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Malaysia: VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD
+#EXTINF:-1 tvg-id="CHN" group-title="Malaysia: VVIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="ArirangWorld.kr" group-title="Malaysia: VIP" tvg-logo="http://arirang.com/images/index/arirang.png",ARIRANG TV
+#EXTINF:-1 tvg-id="ArirangWorld.kr" group-title="Malaysia: VVIP" tvg-logo="http://arirang.com/images/index/arirang.png",ARIRANG TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="398" group-title="Malaysia: VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="398" group-title="Malaysia: VVIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Malaysia: VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Malaysia: VVIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Malaysia: VIP" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",REDBULL TV
+#EXTINF:-1 tvg-id="CHN" group-title="Malaysia: VVIP" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="RTMK05" group-title="Malaysia: VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
+#EXTINF:-1 tvg-id="RTMK05" group-title="Malaysia: VVIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-id="801" group-title="Malaysia: VIP" tvg-logo="https://i.imgur.com/HlB71nE.jpg",ARENA HD
+#EXTINF:-1 tvg-id="801" group-title="Malaysia: VVIP" tvg-logo="https://i.imgur.com/HlB71nE.jpg",ARENA HD
 http://iptv12k.com:35461/80201033004/324542/688
 
-#EXTINF:-1 group-title="Malaysia: VIP" tvg-id="802" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e32d82f270e544a886a36db2c678e02f/version/0/width/368/height/208/quality/80",ARENA 2
+#EXTINF:-1 group-title="Malaysia: VVIP" tvg-id="802" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e32d82f270e544a886a36db2c678e02f/version/0/width/368/height/208/quality/80",ARENA 2
 http://iptv12k.com:35461/80201033004/324542/965
 
-#EXTINF:-1 tvg-id="811" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia: VIP",SUPERSPORT
+#EXTINF:-1 tvg-id="811" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia: VVIP",SUPERSPORT
 http://iptv12k.com:35461/80201033004/324542/656
 
-#EXTINF:-1 tvg-id="812" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia: VIP",SUPERSPORT 2
+#EXTINF:-1 tvg-id="812" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia: VVIP",SUPERSPORT 2
 http://iptv12k.com:35461/80201033004/324542/655
 
-#EXTINF:-1 tvg-id="813" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia: VIP",SUPERSPORT 3
+#EXTINF:-1 tvg-id="813" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia: VVIP",SUPERSPORT 3
 http://iptv12k.com:35461/80201033004/324542/654
 
-#EXTINF:-1 tvg-id="814" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia: VIP",SUPERSPORT 4
+#EXTINF:-1 tvg-id="814" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia: VVIP",SUPERSPORT 4
 http://iptv12k.com:35461/80201033004/324542/653
 
-#EXTINF:-1 group-title="Malaysia: VIP" tvg-id="815" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/1de928cb602143f6bfff21026f7da97f/version/0/width/368/height/208/quality/80",SUPERSPORT 5
+#EXTINF:-1 group-title="Malaysia: VVIP" tvg-id="815" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/1de928cb602143f6bfff21026f7da97f/version/0/width/368/height/208/quality/80",SUPERSPORT 5
 http://iptv12k.com:35461/80201033004/324542/968
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 group-title="Malaysia: VIP" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
+#EXTINF:-1 group-title="Malaysia: VVIP" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Malaysia: VIP",SPOTV 2
+#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Malaysia: VVIP",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="824" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="Malaysia: VIP",CRICKET
+#EXTINF:-1 tvg-id="824" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="Malaysia: VVIP",CRICKET
 http://iptv12k.com:35461/80201033004/324542/992
 
-#EXTINF:-1 tvg-id="822" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="Malaysia: VIP",GOLF
+#EXTINF:-1 tvg-id="822" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="Malaysia: VVIP",GOLF
 http://iptv12k.com:35461/80201033004/324542/651
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="818" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="Malaysia: VIP",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="818" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="Malaysia: VVIP",BEIN SPORTS 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="817" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Malaysia: VIP",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="817" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Malaysia: VVIP",BEIN SPORTS 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-id="819" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Malaysia: VIP",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="819" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Malaysia: VVIP",BEIN SPORTS 3
 http://iptv12k.com:35461/80201033004/324542/960
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="Malaysia: VIP",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="Malaysia: VVIP",FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="821" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="Malaysia: VIP",WWE NETWORK
+#EXTINF:-1 tvg-id="821" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="Malaysia: VVIP",WWE NETWORK
 http://iptv12k.com:35461/80201033004/324542/993
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" group-title="Malaysia: VIP",Unifi Sports 1 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" group-title="Malaysia: VVIP",Unifi Sports 1 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7049/CPS/images/universal/film/logo/202201/20220120/20220120145630664xqz.jpg" group-title="Malaysia: VIP",Unifi Sports 2 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7049/CPS/images/universal/film/logo/202201/20220120/20220120145630664xqz.jpg" group-title="Malaysia: VVIP",Unifi Sports 2 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
